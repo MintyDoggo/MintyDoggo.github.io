@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Escape Room Presentation](https://youtu.be/RrseaMzpaUc)
 
-- **Class:** 
-- **Grade:**
+- **Class: Object Oriented Programming** 
+- **Grade: no se**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Vending Machine Supplier Database](https://youtu.be/S9QbsSOYDes)
 
-- **Class:** 
-- **Grade:**
+- **Class: Database Management** 
+- **Grade: no se**
 
 ---
 
