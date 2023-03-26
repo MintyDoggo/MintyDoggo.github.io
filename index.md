@@ -9,12 +9,12 @@ Programming Projects
 ---
 ### [Medical University Student Management | CSCI 495](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/project1thumbnail.png)
 
 ---
-### [Large Map | CSCI 315](project2)
+### [Web Crawler | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/project2thumbnail.png)
 
 ---
 ### [Escape Room Game | CSCI 325](project3)
