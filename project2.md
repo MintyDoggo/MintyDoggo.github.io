@@ -23,7 +23,7 @@ make clean
 
 ## UI Design
 
-There is no UI design since it is a terminal program. The user does not need to do much either since all the program does is encode and decode files. The make commands is all the user needs to use in order to interact with this program.
+There is no UI design since it is a terminal program. The user does not need to do much either since all the program does is determine the path from a specific .html file. The make commands is all the user needs to use in order to interact with this program.
 
 ![screenshot](images/project2fig1.png)  
 Fig 1. 
