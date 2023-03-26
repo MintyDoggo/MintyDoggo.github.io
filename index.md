@@ -54,13 +54,13 @@ Presentations
 ### [Escape Room Presentation](https://youtu.be/RrseaMzpaUc)
 
 - **Class: Object Oriented Programming** 
-- **Grade: no se**
+- **Grade: A**
 
 
 ### [Vending Machine Supplier Database](https://youtu.be/S9QbsSOYDes)
 
 - **Class: Database Management** 
-- **Grade: no se**
+- **Grade: A**
 
 ---
 
