@@ -18,7 +18,13 @@ Compresses any file type using Huffman tree compression algorithm. We see the te
 How to compile (if applicable) and run the project.
 
 ```
-d
+// use the makefile in a ubuntu terminal. be sure g++ is installed
+make test
+make clean
+
+// optional but most welcome: use other make commands to compress more files!
+make img2
+make clean
 ```
 
 ## UI Design
