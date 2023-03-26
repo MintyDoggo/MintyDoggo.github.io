@@ -31,7 +31,7 @@ Fig 1. Main Menu
 ![screenshot](images/project3InstructionsMenu.png)  
 Fig 2. Instructions Menu
 
-![screenshot](images/project3InGame.png)  
+![screenshot](images/csci325thumbnail.gif)  
 Fig 3. In Game
 
 ![screenshot](images/project3MapMenu.png)  
