@@ -4,10 +4,10 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:cthinkle@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [scripting languages | CSCI 301](project1)
+### [Medical University Student Management | CSCI 495](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -22,7 +22,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/csci325thumbnail.gif)
 
 ---
-### [Permutations Calculator | CSCI 415](project4)
+### [Huffman Tree Compressor | CSCI 415](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
