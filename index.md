@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:cthinkle@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Medical University Student Management | CSCI 495](project1)
+### [Medical University Student Management | CSCI 495](project1) 
 
 ![Project 1 Thumbnail Name](images/project1thumbnail.png)
 
