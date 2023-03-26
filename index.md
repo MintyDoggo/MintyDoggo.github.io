@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Huffman Tree Compressor | CSCI 415](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/project4thumbnail.png)
 
 ---
 
