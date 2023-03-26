@@ -15,10 +15,16 @@ Escape Room Game
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to compile and run the project.
 
 ```
-d
+// run make commands in ubuntu terminal from makefile (be sure g++ is installed)
+make test
+make clean
+
+// optional: test other make commands to compress other files
+make img2
+make clean
 ```
 
 ## UI Design
