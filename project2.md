@@ -11,17 +11,13 @@ Web Crawler Page Counter
 
 ## Project description
 
-
+This program is a web crawler that works by starting at one page, navigating to the rest, and then counting the total unique pages visited (Fig 1). It firsts parses the page (Fig 2), outputs if the page is balanced or not, and finally outputs how many possible visits the page has (Fig 3).
 
 ## How to compile and run the program
 
 ```
 // use the makefile in a ubuntu terminal. be sure g++ is installed
 make run
-make clean
-
-// optional but most welcome: use other make commands to compress more files!
-make img2
 make clean
 ```
 
