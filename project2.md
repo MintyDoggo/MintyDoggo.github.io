@@ -26,15 +26,15 @@ make clean
 There is no UI design since it is a terminal program. The user does not need to do much either since all the program does is determine the path from a specific .html file. The make commands is all the user needs to use in order to interact with this program.
 
 ![screenshot](images/project2fig1.png)  
-Fig 1. 
+Fig 1. href navigation
 
 
 ![screenshot](images/project2fig2.png)  
-Fig 2. 
+Fig 2. parse of first page
 
 
 ![screenshot](images/project2fig3.png)  
-Fig 3. 
+Fig 3. is balanced and possible visits
 
 
 ## 3. Additional Considerations
