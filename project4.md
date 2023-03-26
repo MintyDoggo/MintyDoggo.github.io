@@ -23,19 +23,23 @@ d
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+There is no UI design since it is a terminal program. The user does not need to do much either since all the program does is encode and decode files. The make commands is all the user needs to use in order to interact with this program.
 
 ![screenshot](images/project4fig1.png)  
 Fig 1. 
 
+
 ![screenshot](images/project4fig2.png)  
 Fig 2. 
+
 
 ![screenshot](images/project4fig3.png)  
 Fig 3. 
 
+
 ![screenshot](images/project4fig4.png)  
 Fig 4. 
+
 
 ## 3. Additional Considerations
 
