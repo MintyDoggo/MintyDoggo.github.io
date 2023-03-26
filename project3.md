@@ -6,7 +6,7 @@ Escape Room Game
 -   **Class: Object Oriented Programming** 
 -   **Grade: A** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [MintyDoggo/csci-325-Final-Project-Source](https://github.com/MintyDoggo/csci-325-Final-Project-Source)  
     (Please [email me](mailto:cthinkle@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
