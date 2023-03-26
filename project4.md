@@ -37,7 +37,7 @@ Fig 2.
 Fig 3. 
 
 
-![screenshot](images/project4fig4.png)  
+![screenshot](images/project4fig4-1.png)  
 Fig 4. 
 
 
