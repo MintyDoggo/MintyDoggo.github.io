@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Large Map | CSCI 315](project1)
+### [Large Map | CSCI 315](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Escape Room Game | CSCI 325](project1)
+### [Escape Room Game | CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/csci325thumbnail.gif)
 
 ---
-### [Permutations Calculator | CSCI 415](project1)
+### [Permutations Calculator | CSCI 415](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
