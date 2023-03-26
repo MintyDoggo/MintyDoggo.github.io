@@ -34,17 +34,17 @@ Ethics Papers
 ### [Privacy and Anonymity: Essential Rights](/pdf/algorithmsPaper.pdf)
 
 -   **Class: Algorithms**  
--   **Grade:**
+-   **Grade: no se**
 
 ### [The Dangers of Open Source Licensing](/pdf/OSPaper.pdf)
 
 -   **Class: Operating Systems** 
--   **Grade:**
+-   **Grade: no se**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Prioritizing Safety Above Success](/pdf/dataStructuresPaper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: DataStructures** 
+-   **Grade: no se**
 
 ---
 
