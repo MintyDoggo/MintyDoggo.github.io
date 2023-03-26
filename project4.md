@@ -1,9 +1,9 @@
 [Back to Portfolio](./)
 
-Escape Room Game
+Huffman Tree Compressor
 ===============
 
--   **Class: Object Oriented Programming** 
+-   **Class: Algorithms** 
 -   **Grade: A**
 -   **Language(s): C++**
 -   **Source Code Repository:** [MintyDoggo/algorithms-huffman-project](https://github.com/MintyDoggo/algorithms-huffman-project)  
