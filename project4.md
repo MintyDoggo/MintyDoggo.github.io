@@ -11,7 +11,7 @@ Huffman Tree Compressor
 
 ## Project description
 
-
+Compresses any file type using Huffman tree compression algorithm. We see the test data (Fig 1) before the program is run and how it is nearly 30,000 lines of data! After running our make command, the program outputs the frequency of each character/byte (Fig 2) and then all character mappings (Fig 3). This was mainly used for debugging but is now a way for the user to understand exactly what happens. We then how much was saved and finally the compressed files end in .huff (Fig 4).
 
 ## How to compile and run the program
 
@@ -25,16 +25,16 @@ d
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-![screenshot]()  
+![screenshot](images/project4fig1.png)  
 Fig 1. 
 
-![screenshot]()  
+![screenshot](images/project4fig2.png)  
 Fig 2. 
 
-![screenshot]()  
+![screenshot](images/project4fig3.png)  
 Fig 3. 
 
-![screenshot]()  
+![screenshot](images/project4fig4.png)  
 Fig 4. 
 
 ## 3. Additional Considerations
