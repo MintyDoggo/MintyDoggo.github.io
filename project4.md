@@ -15,8 +15,6 @@ Compresses any file type using Huffman tree compression algorithm. We see the te
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
 ```
 // use the makefile in a ubuntu terminal. be sure g++ is installed
 make test
@@ -32,19 +30,19 @@ make clean
 There is no UI design since it is a terminal program. The user does not need to do much either since all the program does is encode and decode files. The make commands is all the user needs to use in order to interact with this program.
 
 ![screenshot](images/project4fig1.png)  
-Fig 1. 
+Fig 1. test data
 
 
 ![screenshot](images/project4fig2.png)  
-Fig 2. 
+Fig 2. frequency count
 
 
 ![screenshot](images/project4fig3.png)  
-Fig 3. 
+Fig 3. character mappings
 
 
 ![screenshot](images/project4fig4-1.png)  
-Fig 4. 
+Fig 4. save percentage and compressed files
 
 
 ## 3. Additional Considerations
