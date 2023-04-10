@@ -7,7 +7,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Bachelor of Science in Computer-Science (class of 2023)
   <br /><br />
-  <a href="/pdfs/resume.pdf">View My Resume (currently music professor resume as a placeholder)</a>
+  <a href="https://s3.amazonaws.com/handshake.production/documents/documents/037/645/919/original/resume.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2HSNSGACXF6KKT2H%2F20230410%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230410T211112Z&X-Amz-Expires=10&X-Amz-SignedHeaders=host&X-Amz-Signature=ee35076d53f1af69e0cb1ad1fdd3458746a9f433d8999689b3acfddea754e575">View My Resume</a>
 repository: "MintyDoggo/MintyDoggo.github.io"
 github_username:  MintyDoggo # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
