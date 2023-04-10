@@ -5,7 +5,7 @@ Programming Projects
 --------------------
 
 *For access to my private project repositories, please [email me](mailto:cthinkle@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
-  <a href="/pdfs/resume.pdf">View My Resume</a>
+  <a href="/pdf/resume.pdf">View My Resume</a>
 
 
 ---
